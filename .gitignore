@@ -1,6 +1,4 @@
 # PyInstaller folders
-/build/
-/dist/
 *.spec
 
 # Python cache
